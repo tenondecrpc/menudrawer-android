@@ -1,4 +1,4 @@
-package com.tenondelab.tendoctor
+package com.tenondelab.tenmenudrawer
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
